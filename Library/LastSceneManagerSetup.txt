@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/CYJuGirlFriend/Scenes/CYJuGirlFriend.unity
+  isLoaded: 1
+  isActive: 1
